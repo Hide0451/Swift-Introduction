@@ -1,0 +1,8 @@
+var char1: Character = "I"
+var string1: String = "Anton"
+var int1: Int = 8
+var float1: Float = 3.9
+var double1: Double = 3.95079
+var bool1: Bool = true
+var string2: String = "My name is \(string1). \(char1) like number \(int1)! It is \(bool1) that \(float1) is less than \(double1). "
+print(string2)
